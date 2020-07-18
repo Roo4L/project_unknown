@@ -1,0 +1,4 @@
+#ifndef COMMANDWIDG_H
+#define COMMANDWIDG_H
+
+#endif // COMMANDWIDG_H
